@@ -1,0 +1,12 @@
+{
+  "name": "minty-MF",
+  "author": "Matthew Fitchett",
+  "description": "Rob Conery's Minty",
+  "version": "0.0.1",
+  "scripts" : {
+      "test" : "mocha -w"
+  },
+  "devDependencies": {
+    "should": "~2.1.0"
+  }
+}
